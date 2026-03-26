@@ -1,0 +1,14 @@
+============== Gain and probe settings used per probe  ===================
+Position	7
+Configuration	Both
+Drive_gain	72
+============== Sampled values used in calibration  ===================
+Position	7
+-0.1	0.106106
+0	0.382553
+============== Calibration settings applied ===================
+Parameter	7
+CableRes	2.5
+CalSet	0.361733
+ZeroSet	0.382553
+CalError	0
